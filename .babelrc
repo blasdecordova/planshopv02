@@ -1,0 +1,9 @@
+// con este código puedo correr el proyecto 
+// desde el terminal y correr código es6
+{
+    "presets": [
+        [
+            "@babel/preset-env"
+        ]
+    ]
+}
